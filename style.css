@@ -4,4 +4,9 @@
     background-color: aqua;
     display: flex;
     
+    justify-content: space-around;
+}
+
+.box{
+    
 }
